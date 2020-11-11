@@ -1,0 +1,193 @@
+EXECUSE ME FOR TYPOS
+
+Rules to follow
+
+1) Be on mute all the time if there is no question to discuss
+2) unmute always (REMEMBER IT) when want to dicsuss anything
+3) Be 100% here and be honest while logged in 
+4) Make it interactive by asking lots of questions so that we can have classroom like experience
+5) Use Chat Box and Mike as much as possible to interact 
+6) Breaks -- 11 AM (15 minutes) , 1 PM (60 minutes) , 3:30 PM (15 minutes)
+
+Methodology
+1) 20% time will go in theory/concepts (Day 1 first half, expect little more theroy)
+2) 80% time will go in examples/demos
+
+Prerequisites
+1) Java development experience 
+
+S/W Required
+1) JDK 8
+   JAVA_HOME = C:\Java\jdk1.8.0_161
+   PATH = %JAVA_HOME%\bin;.;blah blah....
+   CLASSPATH = %JAVA_HOME%\lib;.
+2) Scala 2.x
+   PATH = C:\Program Files (x86)\scala\bin;blah blah....
+
+3) Scala IDE
+
+Time To Start
+
+Languages designed for developers
+Languages designed for testers
+Languages designed for data-analysists
+Languages designed for architects
+Languages designed for methaticians
+
+
+Scala
+  --> was designed keeping in mind Java limitations/shortcomings and data analysis
+  --> is a functional language and object oriented language both i.e. multiparadigm language
+  --> is a pure object oriented language because everything in Scala is an object
+  --> stands for Scalabale Language 
+  --> is designed to build large scale scalable applications
+  --> is immutable language by nature
+  --> is a language specially designed for Data Analysts but used by Developers also
+  --> everyting in Scala is an object
+  --> Scala program is a collection of objects
+  --> hava many functional features
+      --> supports annonymous functions
+      --> supports named functions
+      --> supports functions currying
+      --> supports functions nesting
+      --> supports higher-order functions
+      --> supports functions as data
+	     --> supports functions assigned to variables
+      	     --> supports functions as arguments
+      	     --> supports functions as return values
+      --> supports functions chaining
+      --> supports functions closures
+  --> hava many object oriended features
+      --> supports encaptulation
+      --> supports inherientence
+      --> supports polymorphysm
+      --> supports abstraction
+      --> supports case classes
+      --> supports case objects
+      --> supports companions
+      --> supports singletons
+      --> supports value classes
+      --> supports traits
+      --> supports monads
+      --> object comparasion
+  --> supports for comprehension
+  --> supports match expressions
+  --> supports mutable (var) and immutable (val) variable 
+  --> supports conditions as functions
+  --> has fined grained scoping rules
+  --> supports actor based concurrency model for writing concurrent applications
+  --> is very simple to learn
+  --> provides a small syntex for doing things
+  --> is very fast language from performance prespective
+  --> has many frameworks/tools built on top of Scala like AKKA,Play,Slick,SBT etc..
+  --> can use any Java classes and vice versa
+  --> can use any Java existing libraries and vice versa
+  --> is one more JVM language like Groovy,Jython,Pizaa etc...
+  --> supports type inference 
+
+
+Shortcomings/Limitations in Java language
+  --> is not pure object oriended language
+  --> string comparasion is not there till Java 7
+  --> Java is a slow language
+  --> Scoping rules are badly designed
+  --> static keyword is against OOP
+  --> interface is not part of OOP
+  --> Thread based model is a nightmare and complete failure for building highly concurrent performant applications
+  --> Learning curve is very big (java.util,java.io)
+  --> Java has become complex over years
+  --> Java is never designed and can not be used for data analysis purpose even if Data Analyst want to use it
+  --> Java is not a good language from Tester perpective
+  --> Reflection  API in Java can break all the OOP rules
+  --> Java has many pitfalls (Create a instance variable in servlet,java.awt.Component.setSize())
+  --> Java is thoroughly mutable by nature all the time
+
+
+Fundamentals of Scala
+ --> data types
+ --> arrays 
+ --> operators
+ --> conditions
+ --> loops
+ --> keywords
+ --> REPL -- Read Evaluate Print Loop
+ --> syntex
+ --> hello world 
+
+
+Use Case) 
+    a) Write a simple complete program in Scala and run from command line
+    b) Write a simple functional application in Scala and run from command line
+    c) Write a simple script in Scala and run from command line
+
+ 
+Object Oriented programming 
+   --> are static by nature
+   --> development cycle is always change,compile and run the code
+   --> scalac compiler
+   --> Class/Object is a first class citizen
+
+Q) How functional languages differ from OO languages?
+
+Functional programming 
+  --> allows only writing functions for each and every task
+  --> has only interpretor to execute functions/code at runtime
+  --> development cycle is always change and run the code
+  --> are dynamic by nature
+  --> are flexibility by nature
+  --> scala intrepretor
+  --> FP beleive in data passing rather then data sharing
+  --> Function is a first class citizen
+
+
+Q) What is the super most type in Scala?
+Q) What is the difference in AnyVal and AnyRef?
+Q) What is the difference in val and var?
+Q) What is the difference in val and final?
+Q) What is the difference between switch and match case?
+Q) What is the difference in FP and OOP?
+Q) Lambda expression in Java 8 is an implementation of ------ ?
+
+
+Encaptulation
+  --> primary constructor
+  --> secondory constructor
+  --> secondory constructor must give a call to primary constructor directly or indirectly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
